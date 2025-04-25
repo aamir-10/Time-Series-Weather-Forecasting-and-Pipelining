@@ -1,5 +1,7 @@
 # ⚡ Power Consumption Forecast Pipeline System
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://power-consumption-forecasting-pipline-etxd2aiumsebnc7wqsnrq8.streamlit.app/)
+
 ## 📌 Introduction and Objective
 
 The objective of this project was to utilize historical information from the American Electric Power (AEP) area to develop a reliable pipeline for estimating power usage along a 168-hour lead. The primary purpose was to develop, evaluate, and compare time-series models to forecast mean load and volatility and provide meaningful information for energy planning. 
@@ -93,6 +95,8 @@ Streamlit-based app includes:
 - Horizon slider for adjusting forecast window
 - 168-hour forecast and volatility plot
 - Forecast and volatility pickled for deployment
+
+▶️ **Try it live**: [Power Consumption Forecasting App](https://power-consumption-forecasting-pipline-etxd2aiumsebnc7wqsnrq8.streamlit.app/)
 
 ---
 
