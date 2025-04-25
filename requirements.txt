@@ -1,0 +1,9 @@
+> streamlit
+> pandas
+> numpy
+> matplotlib
+> scikit-learn
+> plotly
+> pickle
+> Pillow
+> and a suitable python friendly environment.
